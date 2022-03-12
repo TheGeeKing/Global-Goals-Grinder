@@ -4,7 +4,7 @@ from time import sleep
 
 from ppadb.client import Client
 
-os.system('"..\\adb\.\\adb start-server"')
+os.system('start cmd /c ..\\pyscrcpy\.\\adb  start-server')
 
 adb = Client(host="127.0.0.1", port=5037)
 devices = adb.devices()

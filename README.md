@@ -10,7 +10,8 @@ Grind some money on Samsung Global Goals app to donate to good causes :)
 3. [ADVANCED GRINDERS (Recommended)](#3-advanced-grinders-recommended)
    1. [Auto Scroll (AutoXY)](#1-auto-scroll-autoxy)
    2. [Auto Watch Ads](#2-auto-watch-ads)
-4. [Why?](#4-why)
+4. [Proof](#4-proof)
+5. [Why?](#5-why)
 
 ## 1. Installation
 
@@ -117,7 +118,12 @@ Samsung double every donation so 0.61\*2 = 1.22$ in 10 minutes.
 
 - Less money/min, more complicated, but makes money.
 
-## 4. Why?
+## 4. Proof
+
+Proof1: A screenshot of all the money I donated through this automation.
+Proof2: Auto Scroll (AutoXY) doing his job for 2 minutes and grinded 0.33€(which are doubled by Samsung).
+
+## 5. Why?
 
 Good question. Because. GAFAM offer a way to give money to important causes. Why wouldn't you want to contribute?
 
