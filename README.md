@@ -1,18 +1,18 @@
-# global goals grinder
+# Global-Goals-Grinder
 
 Grind some money on Samsung Global Goals app to donate to good causes :)
 
 # Table of contents
 
-1. [Installation](#installation)
-2. [BASIC GRINDER](#basic-grinder)
-   1. [Auto Scroll (ManualXY)](#auto-scroll-manualxy)
-3. [ADVANCED GRINDERS (Recommended)](#advanced-grinder)
-   1. [Auto Scroll (AutoXY)](#auto-scroll-autoxy)
-   2. [Auto Watch Ads](#auto-watch-ads)
-4. [Why?](#why)
+1. [Installation](#1-installation)
+2. [BASIC GRINDER](#2-basic-grinder)
+   1. [Auto Scroll (ManualXY)](#1-auto-scroll-manualxy)
+3. [ADVANCED GRINDERS (Recommended)](#3-advanced-grinders-recommended)
+   1. [Auto Scroll (AutoXY)](#1-auto-scroll-autoxy)
+   2. [Auto Watch Ads](#2-auto-watch-ads)
+4. [Why?](#4-why)
 
-## 1. Installation {#installation}
+## 1. Installation
 
 1. Download files.
 2. Enable developer mode and USB debugging.
@@ -21,9 +21,9 @@ Grind some money on Samsung Global Goals app to donate to good causes :)
 5. Open cmd in the folder you want to use.
 6. and run `py <filename>.py`
 
-## 2. BASIC GRINDER {#basic-grinder}
+## 2. BASIC GRINDER
 
-### 1. Auto Scroll (ManualXY) {auto-scroll-manualxy}
+### 1. Auto Scroll (ManualXY)
 
 #### 1.1. Stats
 
@@ -56,9 +56,9 @@ Samsung double every donation so 0.95\*2 = 1.90$ in 10 minutes.
 - It's easy to use.
 - It's fast.
 
-## 3. ADVANCED GRINDERS (Recommended) {#advanced-grinders}
+## 3. ADVANCED GRINDERS (Recommended)
 
-### 1. Auto Scroll (AutoXY) {#auto-scroll-autoxy}
+### 1. Auto Scroll (AutoXY)
 
 #### 1.1. Stats
 
@@ -89,7 +89,7 @@ Samsung double every donation so 0.95\*2 = 1.90$ in 10 minutes.
 1.  It's faster to setup than manual XY.
 2.  It's more reliable.
 
-### 2. Auto Watch Ads {#auto-watch-ads}
+### 2. Auto Watch Ads
 
 #### 2.1. Stats
 
@@ -117,7 +117,7 @@ Samsung double every donation so 0.61\*2 = 1.22$ in 10 minutes.
 
 - Less money/min, more complicated, but makes money.
 
-## 4. Why? {#why}
+## 4. Why?
 
 Good question. Because. GAFAM offer a way to give money to important causes. Why wouldn't you want to contribute?
 
